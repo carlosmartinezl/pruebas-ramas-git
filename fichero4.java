@@ -1,7 +1,6 @@
 public class NumeroMayorApp {
  
-    public static void main(String[] args) {
- 
+    public static void main(String[] args) {           
         //Declaramos las variables
         int num1=30;
         int num2=15;
