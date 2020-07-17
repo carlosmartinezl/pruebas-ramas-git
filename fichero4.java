@@ -7,15 +7,17 @@ public class NumeroMayorApp {
         int num2=15;
  
         //Hacemos la comprobación
-        if (num1>=num2){
+        Scanner sc = new Scanner(System.in);
+        int numero=0;
+        do {
             //If anidado
             if(num1==num2){
                 System.out.println("Los numeros "+num1+" y "+num2+" son iguales");
             }else{
                 System.out.println("El número "+num1+" es mayor que el número "+num2);
             }
-        }else{
-            System.out.println("El número "+num2+" es mayor que el número "+num1);
+        } while (numero<0); int contador=0; for (int i=numero;i>0;i/=10){
+            //Incrementamos el contador
+            contador++;
         }
-    }
 }
