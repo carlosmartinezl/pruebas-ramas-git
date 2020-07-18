@@ -5,8 +5,6 @@ public class EsPrimo {
 	  boolean primo=true;
 	  while ((primo) && (contador!=numero)){
 	    if (numero % contador == 0)
-	      primo = false;
-	    contador++;
 	  }
 	  return primo;
 	}

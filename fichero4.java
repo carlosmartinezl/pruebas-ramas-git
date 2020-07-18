@@ -5,10 +5,6 @@ public class NumeroMayorApp {
         //Declaramos las variables
         int num1=30;
         int num2=15;
- 
-        //Hacemos la comprobación
-        Scanner sc = new Scanner(System.in);
-        int numero=0;
         do {
             //If anidado
             if(num1==num2){
