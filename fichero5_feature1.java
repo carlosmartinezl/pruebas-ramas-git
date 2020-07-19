@@ -5,5 +5,21 @@ public class SaludoApp {
         String nombre="Fernando";
  
         System.out.println("Bienvenido "+nombre);
+                String nombre="Fernando";
+ 
+        System.out.println("Bienvenido "+nombre);
+                String nombre="Fernando";
+ 
+        System.out.println("Bienvenido "+nombre);
+                String nombre="Fernando";
+ 
+        System.out.println("Bienvenido "+nombre);
+                String nombre="Fernando";
+ 
+        System.out.println("Bienvenido "+nombre);
+
+                String nombre="Fernando";
+ 
+        System.out.println("Bienvenido "+nombre);
     }
 }
